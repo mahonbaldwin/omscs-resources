@@ -6,8 +6,8 @@ I do not maintain any of these resources and so questions regarding them should 
 
 
 - [OMSCS Website](https://www.omscs.gatech.edu/):
-  General information. Information includes which classes are available, information about specializations, details on tuition, calendar deadlines, and iinformation about how to apply among other details.  
+  General information. Information includes which classes are available, information about specializations, details on tuition, calendar deadlines, and information about how to apply among other details.  
 - [OMSCentral](https://omscentral.com/courses):
   Course reviews provided by students. For most OMSCS classes you can see the average time spent per week, how difficult students found the material, and how much students enjoyed the courses among other things.  
 - [OMSCS Wikidot](http://omscs.wikidot.com/courses:list-of-courses):
-  Has more specific course informaiton than can be found on each course website. In some cases a previously used sylabus is available as well as descriptions of projects/homework assignments. There are some things that professors don't allow to be shared outside of class, so many courses have some gaps, but for manyt here are some helpful hints to help students get a head start and to know what to expect.  
+  Has more specific course information than can be found on each course website. In some cases a previously used syllabus is available as well as descriptions of projects/homework assignments. There are some things that professors don't allow to be shared outside of class, so many courses have some gaps, but for many there are some helpful hints to help students get a head start and to know what to expect.  
