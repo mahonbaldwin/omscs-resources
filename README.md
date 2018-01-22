@@ -6,7 +6,9 @@ I do not maintain any of these resources and so questions regarding them should 
 
 
 - [OMSCS Website](https://www.omscs.gatech.edu/):
-  General information. Information includes which classes are available, information about specializations, details on tuition, calendar deadlines, and information about how to apply among other details.  
+  General information. Information includes which classes are available, information about specializations, details on tuition, calendar deadlines, and information about how to apply among other details.
+- [Google+ Forum](https://plus.google.com/communities/108902554607547634726):
+  A student run forum for students and prospective students to ask questions, organize study groups, or freak out about the registration process/homework/etc. If you have any questions, search previous posts or add a new one.
 - [OMSCentral](https://omscentral.com/courses):
   Course reviews provided by students. For most OMSCS classes you can see the average time spent per week, how difficult students found the material, and how much students enjoyed the courses among other things.  
 - [OMSCS Wikidot](http://omscs.wikidot.com/courses:list-of-courses):
